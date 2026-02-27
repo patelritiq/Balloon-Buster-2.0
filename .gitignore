@@ -1,0 +1,40 @@
+# Build directories
+build/
+cmake-build-debug/
+cmake-build-release/
+out/
+
+#Runtime game data
+highscore.dat
+src/highscore.dat
+
+# Compiled binaries
+*.exe
+*.out
+*.app
+*.o
+*.obj
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# Visual Studio
+.vs/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+
+# Temporary files
+*.tmp
+*.temp
