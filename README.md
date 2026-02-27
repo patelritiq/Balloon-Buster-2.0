@@ -7,7 +7,8 @@
 A modernized retro arcade balloon shooting game built with C++17.  
 Originally inspired by the Turbo C++ version with 'graphics.h', now rebuilt with a structured game engine, terminal rendering, sound effects, and cross-platform support.
 
-> Check out the old one👉 **Old Repository:**    [Balloon-Buster](https://github.com/patelritiq/Balloon-Buster)
+> Check out the old one 👇
+> **Old Repository:**    [Balloon-Buster](https://github.com/patelritiq/Balloon-Buster)
 
 ---
 
